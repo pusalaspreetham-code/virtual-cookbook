@@ -1,0 +1,10 @@
+node_modules/
+.env
+
+# Logs
+
+*.log
+
+# Build (if any)
+
+dist/
